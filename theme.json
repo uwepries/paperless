@@ -1,0 +1,29 @@
+{
+    "$schema": "https://schemas.wp.org/trunk/theme.json",
+    "version": 2,
+    "settings": {
+        "layout": {
+            "contentSize": "800px",
+            "wideSize": "1183px"
+        },
+        "color": {
+            "palette": [
+                {
+                    "slug": "paperless-black",
+                    "color": "#131313",
+                    "name": "Black"
+                },
+                {
+                    "slug": "paperless-grey",
+                    "color": "#8B8B8B",
+                    "name": "Grey"
+                },
+                {
+                    "slug": "paperless-white",
+                    "color": "#F7F7F7",
+                    "name": "White"
+                }
+            ]
+        }
+    }
+}
